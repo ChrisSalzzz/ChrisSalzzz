@@ -5,7 +5,6 @@ I'm passionate about leveraging technology to build intelligent solutions that m
 In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to PowerApp development and AI, and I love sharing examples and best practices as code on this repository.
 
 ## Tech Stack:
-![Microsoft SharePoint ](https://summitbajracharya.com.np/wp-content/uploads/2020/10/PowerAutomate-2020-icon-1024x1024.png)
 ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
