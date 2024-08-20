@@ -2,7 +2,7 @@
 
 I'm passionate about leveraging technology to build intelligent solutions that make a difference in people's lives and across industries. With over 10 years of professional experience, I specialize in Power Platform development and SharePoint architecture, creating smart systems that enhance productivity, collaboration, and decision-making.
 
-In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to PowerApp development and AI, and I love sharing examples and best practices as code on this repository.
+In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to Power Platform development and AI, and I love sharing examples and best practices as code on this repository.
 
 ## TechStack:
 Areas of Experience: 
