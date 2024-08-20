@@ -5,7 +5,7 @@ I'm passionate about leveraging technology to build intelligent solutions that m
 In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to PowerApp development and AI, and I love sharing examples and best practices as code on this repository.
 
 ## Tech Stack:
-### Area of Experience
+### Areas of Experience
 ![Static Badge](https://img.shields.io/badge/Developer-red?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Low%20Code%2F%20No%20Code%20-%20black?style=for-the-badge&logo=azure)
 ![Static Badge](https://img.shields.io/badge/Data%20Science%20-beige?style=for-the-badge&logo=azure)
