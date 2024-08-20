@@ -1,3 +1,5 @@
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQFrZD5h7h3wpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682889435344?e=1729728000&v=beta&t=tHBto7KElTt87eCSLL6xkOEFpBv91M_WxaghyjgWTaE)
+
 # Hi there, I'm Chris Saldivar 👋
 
 I'm passionate about leveraging technology to build intelligent solutions that make a difference in people's lives and across industries. With over 10 years of professional experience, I specialize in Power Platform development and SharePoint architecture, creating smart systems that enhance productivity, collaboration, and decision-making.
