@@ -5,14 +5,17 @@ I'm passionate about leveraging technology to build intelligent solutions that m
 In my current role as a Low Code/No Code Developer and SharePoint Architect, I bring 6 years of experience to the table, driving innovation through custom app development and seamless integration within the Microsoft ecosystem. I'm dedicated to contributing to open-source projects, particularly those related to PowerApp development and AI, and I love sharing examples and best practices as code on this repository.
 
 ## Tech Stack:
-![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PowerApps-8A2BE2?style=for-the-badge&logo=powerapps)
+![Static Badge](https://img.shields.io/badge/Power%20Automate%20-196DE5?style=for-the-badge&logo=powerapps)
+![Static Badge](https://img.shields.io/badge/SharePoint-cyan?style=for-the-badge&logo=sharepoint)
+![Static Badge](https://img.shields.io/badge/Azure%20-%20blue?style=for-the-badge&logo=azure)
+![Static Badge](https://img.shields.io/badge/JSON%20-%20black?style=for-the-badge&logo=json)
+![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=yellow)
+![Static Badge](https://img.shields.io/badge/powershell%20-%20%2306C2AC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Dataverse-darkgreen?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/API%20-%20orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Data%20Science%20-%20lime?style=for-the-badge&logo=sharepoint)
+
 
 ## About Me:
 - **😄 Expertise:** Low Code/No Code Developer | SharePoint Architect
