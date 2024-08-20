@@ -14,6 +14,8 @@ In my current role as a Low Code/No Code Developer and SharePoint Architect, I b
 ![Static Badge](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&color=yellow)
 ![Static Badge](https://img.shields.io/badge/JSON%20-%20black?style=for-the-badge&logo=json)
 ![Static Badge](https://img.shields.io/badge/powershell%20-%20%2306C2AC?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)
+
 
 ### Application Development and User Interface
 ![Static Badge](https://img.shields.io/badge/PowerApps-8A2BE2?style=for-the-badge&logo=powerapps)
