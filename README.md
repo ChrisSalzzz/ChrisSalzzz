@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQFrZD5h7h3wpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1682889435344?e=1729728000&v=beta&t=tHBto7KElTt87eCSLL6xkOEFpBv91M_WxaghyjgWTaE](https://github.com/ChrisSalzzz/ChrisSalzzz/blob/main/1682889435344.jpg)
+![Banner](https://github.com/ChrisSalzzz/ChrisSalzzz/blob/main/1682889435344.jpg?raw=true)
 
 # Hi there, I'm Chris Saldivar 👋
 
